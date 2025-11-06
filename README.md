@@ -14,3 +14,5 @@ O objetivo principal foi aplicar a semântica do HTML5 e a correta estruturaçã
 * Estrutura Semântica: Uso correto de tags HTML5 (como `<title>`,`<header>`, `address`, `<section>`, `<footer>`).
 * Conteúdo Estruturado: Organização de textos, listas e links.
 * Navegação: Links internos e externos para o LinkedIn e o Github.
+
+**Link para o site:**  https://gustavopf1.github.io/exercicio-curriculohtml/
